@@ -2,14 +2,6 @@
 
 I'm gemingjia, a passionate Java programmer and a third-year computer science student. Welcome to my Github profile!
 
-## About Me
-	
-- 🔭 I’m currently working on honing my Java skills and exploring various software development projects.
-- 🌱 I’m currently learning advanced Java concepts and frameworks like SpringBoot and Spring Cloud.
-- 👯 I’m looking to collaborate on open-source Java projects to contribute to the developer community.
-- 💼 I'm actively seeking internships or part-time opportunities to gain real-world experience in Java development.
-- 😄 Pronouns: He/Him
-
 <h1 align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Hello+World+!%22);" alt="Typing SVG" /></a>
 </h1>
