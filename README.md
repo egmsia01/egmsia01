@@ -17,6 +17,9 @@
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=gemingjia&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
+<div align="center">
+	GitHub 活动图
+</div>
 
 </div>
 <!--
