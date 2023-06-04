@@ -19,29 +19,13 @@
 <div align="center">
 	GitHub 活动图
 </div>
-	
-# Hi there! 👋
 
 I'm gemingjia, a passionate Java programmer and a third-year computer science student. Welcome to my Github profile!
 
 ## About Me
-
+	
 - 🔭 I’m currently working on honing my Java skills and exploring various software development projects.
 - 🌱 I’m currently learning advanced Java concepts and frameworks like SpringBoot and Spring Cloud.
 - 👯 I’m looking to collaborate on open-source Java projects to contribute to the developer community.
 - 💼 I'm actively seeking internships or part-time opportunities to gain real-world experience in Java development.
 - 😄 Pronouns: He/Him
-<!--
-**gemingjia/gemingjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
