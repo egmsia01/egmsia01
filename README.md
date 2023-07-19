@@ -18,7 +18,7 @@ I'm gemingjia, a passionate Java programmer and a third-year computer science st
   </tr>
 </table>
 <div align="center">
-	GitHub 活动图
+	GitHub Activity
 </div>
-
+Activity
 
