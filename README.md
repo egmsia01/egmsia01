@@ -1,6 +1,7 @@
 ## Hi~ there! 👋
 
 I'm gemingjia, a passionate Java programmer and a senior majoring in computer science and technology. Welcome to my Github profile!
+Now I am preparing for the campus recruitment in autumn. If you have a suitable position, please advise me, thank you very much!
 
 <h1 align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Hello+World+!%22);" alt="Typing SVG" /></a>
