@@ -1,6 +1,7 @@
 ## Hi~ there! 👋
 
 I'm gemingjia, a passionate Java programmer and a senior majoring in computer science and technology. Welcome to my Github profile!
+
 Now I am preparing for the campus recruitment in autumn. If you have a suitable position, please advise me, thank you very much!
 
 <h1 align="center">
