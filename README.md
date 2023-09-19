@@ -4,6 +4,8 @@ I'm gemingjia, a passionate Java programmer and a senior majoring in computer sc
 
 Now I am preparing for the campus recruitment in autumn. If you have a suitable position, please advise me, thank you very much!
 
+（现在正在准备秋招，Java后端方向，如果您所在的公司有合适的岗位可以联系我，谢谢！）
+
 <h1 align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Hello+World+!%22);" alt="Typing SVG" /></a>
 </h1>
