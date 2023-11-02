@@ -1,4 +1,4 @@
-## Hi~ there! 👋
+## 👻 Hello~ 👋
  
 I'm GMerge, a Java & Kotlin Programmer. Welcome to my Github profile!
 
