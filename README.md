@@ -11,7 +11,7 @@ I'm GMerge, a Java & Kotlin Programmer. Welcome to my Github profile!
 </h1>
 <div align="center">
 	
-[![GMerge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GMerge01&count_private=true&show_icons=true&line_height=40)](https://github.com/gemingjia)
-[![GMerge's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GMerge01&show_icons=true)](https://github.com/GMerge01)
+[![GMerge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egmsia01&count_private=true&show_icons=true&line_height=40)](https://github.com/egmsia01)
+[![GMerge's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egmsia01&show_icons=true)](https://github.com/egmsia01)
 
 </div>
