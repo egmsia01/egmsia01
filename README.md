@@ -2,8 +2,8 @@
  
 A Java & Kotlin Programmer. Welcome to my Github profile!
 
-- 🔭 I’m a senior majoring in computer science and technology.
-- 🌱 Likes Android and Linux Kernel.
+- 🔭 I’m a senior majoring.
+- 🌱 Likes Android、Reverse Engineering and Linux Kernel.
 
 <h1 align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Hello+World+!%22);" alt="Typing SVG" /></a>
